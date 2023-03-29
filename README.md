@@ -85,5 +85,5 @@ Example usage:
 
 ```bash
 $ ./toontoonemu/copyright
-
+$ [/MAKE GAME-] - # | This generates a compiled game using zero shot # Example - Flappy bird - pygame
 > Copyright (c) [20XX] FlamesLLC. All rights reserved
